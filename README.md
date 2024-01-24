@@ -87,8 +87,28 @@ This step will import the required components into your environment. Make sure y
  - Now after refreshing and entering the ODATA connection reference you can proceed to import the solution.
 
 
-
 ## Test the App
+
+- Login to https://make.powerapps.com/ 
+- Find the app under "Your apps"
+
+    ![Test 1](images/test1.jpg) <br>
+
+- Start the app by clicking on the list entry
+- Then execute "preview the app (F5)"
+
+    ![Test 2](images/test2.jpg) <br>
+
+- The first step is to refresh the data from SAP
+
+    ![Test 3](images/test3.jpg) <br>
+
+- Now you can browse and search the product entries
+
+    ![Test 4](images/test4.jpg) <br>
+
+- Try to edit a product, delete and add a new product. Note: adding images is not implemented.
+
 
 ## Troubleshooting
 
