@@ -79,7 +79,7 @@ This step will import the required components into your environment. Make sure y
 
     Values for SAP ES5 Demo System are:
     - OData Base URI: https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC
-    - Username e.g.: S001234567 (use your person S-user for the ES5 system. It's not the same user as for the SAPNET)
+    - Username e.g.: S001234567 (use your person S-user for the ES5 system. Note: it's not the SAP support user ID)
     - Password: xxxxxxxxxx (Note: during preview only basic authentication is available)
 
     ![Create Odata Connection](images/import5.jpg) <br>
