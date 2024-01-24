@@ -57,7 +57,7 @@ Follow the setup instructions to connect the app with your SAP instance. Customi
 
 This step will import the required components into your environment. Make sure you are connected to your Non-PROD environment.
 
-- Download the solution as zip file: [Download the Solution](https://github.com/mimergel/SAP_Product_App/raw/main/solution/SAPProductCopilot_1_0_0_2.zip).
+- Download the solution as zip file: [Download the Solution](https://github.com/mimergel/SAP_Product_App/raw/main/solution/SAPProductApp_1_0_0_3.zip).
 
 - Login to https://make.powerapps.com/ 
 - Go to Solutions.
