@@ -40,8 +40,6 @@ This repository contains a Power Apps canvas app designed to facilitate seamless
     - Power Automate Flows: https://make.powerautomate.com/
     - Recommended for productive use is separated DEV and PROD environments
     - Trial license: https://learn.microsoft.com/en-us/power-apps/maker/signup-for-powerapps
-1. Azure Subscription
-    - Azure Trial: https://azure.microsoft.com/en-us/free
 1. SAP System
     - For learning and demo purpose you can use the SAP Gateway Demo System ES5
     - Signup here: https://developers.sap.com/tutorials/gateway-demo-signup.html
