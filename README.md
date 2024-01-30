@@ -129,15 +129,12 @@ Most common observed errors have been with unavailabilty of the ES5 system.
 
 ## Contributing
 
-We welcome contributions to enhance the app's capabilities. 
+Contributions to enhance the capabilities are welcome.
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## Disclaimer
 
-A special thank you to all contributors who have invested their time and expertise to improve this app for the community.
-
-
-
+THE CONTENT OF THIS REPOSITORY IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
